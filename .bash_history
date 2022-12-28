@@ -242,3 +242,95 @@ git add .
 git commit -m "Adding files"
 git push origin develop
 exit
+cd
+git branch
+ls
+cd workspace
+ls
+cat git1.txt
+vim git1.txt
+git add .
+ls
+git status
+git branch
+git status
+git commit -m "modified"
+git push origin develop
+cd ls/
+ls -al
+cd .git/
+ls
+cd
+ls
+cd workspace/
+ls
+git add .
+git status
+git commit -M "adding files"
+git commit -m"adding files"
+git status
+git push origin develop
+git branch
+branch main
+git branch
+git push origin main
+git status
+git clone https://github.com/vamsikrishnanarne/my-first-git.git
+git origin develop
+git push origin develop
+git status
+git add .
+git status
+git commit -m "adding files"
+git push origin develop
+git pull origin develop
+git pull config rebase.true
+git config pull.rebase true
+git add .
+git status
+git commit -m "adding files"
+git push origin develop
+git pull
+git pull remote develop
+git pull
+git pull develop
+cd
+git init
+git status
+git add -A
+git add .
+git status
+git branch
+git status
+git commit -m "initial commit"
+git status
+git log
+git clone  https://github.com/vamsikrishnanarne/vamsikrishnanarne.git
+git remote -v
+git branch -a
+git status
+git add -A
+git add .
+git status
+git pull origin master
+git pull origin develop
+git commit -m "adding files"
+git status
+git pull origin develop
+git pull origin master
+git config rebase.true
+git status
+git pull origin master
+git pull origin develop
+ls
+cd workspace/
+ls -al
+cd .git/
+ls -al
+cd ..
+git pull origin develop
+git push origin develop
+cd
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key |sudo gpg --dearmor -o /usr/share/keyrings/jenkins.gpg
+cd
+exit
